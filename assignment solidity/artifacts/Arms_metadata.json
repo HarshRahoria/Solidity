@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"armstrong.sol": "Arms"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"armstrong.sol": {
+			"keccak256": "0xbd4680b2971eeb69965069cb0d6681d0092b388aa5453a0f1dab45680a6ffcc4",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://9150f1c678e6c066d0121781de40f1933beb459dd83e0676a7be0c50e3f05f47",
+				"dweb:/ipfs/QmR9FuADqvWgdjeDpiH2vmjRX2o4PLFKcMoMkfzQqxjQX2"
+			]
+		}
+	},
+	"version": 1
+}

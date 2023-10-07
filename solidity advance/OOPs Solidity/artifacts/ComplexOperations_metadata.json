@@ -1,0 +1,105 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getNumbers",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "num1",
+				"outputs": [
+					{
+						"internalType": "contract ComplexNumber",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "num2",
+				"outputs": [
+					{
+						"internalType": "contract ComplexNumber",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setNumbers",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"OOPs Solidity/complexAddition.sol": "ComplexOperations"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"OOPs Solidity/complex.sol": {
+			"keccak256": "0x3887b2883d6d828c31632becc71871826c0d194ebf860810898bcaf0a77e5ef4",
+			"license": "Harsh Rahoria",
+			"urls": [
+				"bzz-raw://fc6081827cd274fb34686ce480fa684f79a00601d8c9c2e9c6e97aa20cf85618",
+				"dweb:/ipfs/QmbjrpYbfaBMwdajo4kpA9vfUBa1UcXpCS3Xsc1EenAH9i"
+			]
+		},
+		"OOPs Solidity/complexAddition.sol": {
+			"keccak256": "0xf8c75f6ae7f5c7846e09515e8719c285292e664add27ec8ad36dd99448a5a216",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://44492d790d5fb5e8c5606b8aa2c9cb2e4fb372528b1aac466933172bedbe340d",
+				"dweb:/ipfs/QmPG7FK7fDNvjxqgzt4sA6jKmX7s9T2MQLpL3JqzaFBTGA"
+			]
+		}
+	},
+	"version": 1
+}

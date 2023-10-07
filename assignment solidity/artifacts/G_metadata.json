@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "num",
+						"type": "uint256"
+					}
+				],
+				"name": "calculateCube",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"greatest.sol": "G"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"greatest.sol": {
+			"keccak256": "0x32cef528b0a73e1dccb8e3e4944dd136abe410696594b1dd1817b667f90033af",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://bee7d72eedf79490a293ec04914c5dbaa102b6b4a7c6a70659ad57353039d4fc",
+				"dweb:/ipfs/QmY8j6tvRoEcrtaNMpgdymwDfHXvoaSs75x5cHJhTpunCC"
+			]
+		}
+	},
+	"version": 1
+}

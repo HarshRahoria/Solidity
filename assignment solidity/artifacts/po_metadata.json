@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "num",
+						"type": "uint256"
+					}
+				],
+				"name": "calculateCube",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"power.sol": "po"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"power.sol": {
+			"keccak256": "0x5c7c676e477665ec5a3cfc3b805df184d51506b96f062ab292299b63da8cce8b",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://77b428569362bcf63394d6ad8a69ede1e022ef36dacf67f13720bc8797d3e583",
+				"dweb:/ipfs/Qmd6nNuWnTffpQwetmC73tnSMh8CV6wU4MCM5kaSuA7Frg"
+			]
+		}
+	},
+	"version": 1
+}
